@@ -3,8 +3,6 @@ Authentication and API Example
 
 With this small Symfony tool I tested a bit around with the authentication & api platform tool. 
 
-![Screenshot of the XLF Generator Tool](assets/img/xlfgenerator.jpg "Screenshot of the XLF Generator Tool")
-
 Requirements
 ------------
 
